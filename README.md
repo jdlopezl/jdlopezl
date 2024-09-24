@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy José Domingo 👋</h1>
 </div>
-<img src="https://imgur.com/Q3yrXyR">
+<img src="https://imgur.com/Q3yrXyR.img">
 
 Sobre mí :
 
