@@ -10,8 +10,6 @@ Amante de la tecnología, con la habilidad de comprender la logica de la program
 
 💓 El mundo de la técnologia es algo fascinante, siempre hay algo nuevo que aprender, así que eso me motiva a seguir estar empapado de los nuevos cambios.
 
-📫 ¿Quieres contactar conmigo? Linkedin www.linkedin.com/in/jose-domingo-lopez-lozada
-
 📧 jdomingolopezl@gmail.com
 
 📱 +12816789475
