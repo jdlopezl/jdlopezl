@@ -16,3 +16,11 @@ Amante de la tecnología, con la habilidad de comprender la logica de la program
 📧 jdomingolopezl@gmail.com
 
 📱 +12816789475
+
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+  
+   [![My Skills](https://skillicons.dev/icons?i=py,postman,github,html,cpp,discord,git,github,html,pycharm,ubuntu,windows)](https://skillicons.dev)
+
+</div>
